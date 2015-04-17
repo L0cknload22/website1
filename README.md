@@ -1,3 +1,4 @@
+
 DevTips-Starter-Kit
 ===================
 
@@ -14,3 +15,7 @@ Watch the video on YouTube
 alt="Watch the video on youtube" />
 
 </a>
+=======
+# website1
+Testing Git
+
